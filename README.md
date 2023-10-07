@@ -8,7 +8,7 @@ The delay in the response time to these accidents leads to delayed arrival of am
 
 Unfortunately, there are no effective measures in place to prevent the loss of lives resulting from such road accidents.
 
-## Problem Solution
+## Solution
 
 ### Leveraging CCTV Cameras for Accident Detection
 
