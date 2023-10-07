@@ -25,6 +25,7 @@ Notably, several major Indian cities have already invested in CCTV infrastructur
 - Delhi, with 100 cameras primarily used for speed limit monitoring, which can be repurposed for accident detection.
 - Chennai's Third Eye campaign, boasting a network of 34,293 cameras originally deployed for speed monitoring, can also be effectively utilized for accident detection.
 - Bengaluru, which has proactively installed 5000 surveillance cameras along its roads, adding to the resources available for this initiative.
+- This innovative approach aims to improve response times and save lives by making the most of existing technology and resources.
 
 - ## Python Libraries Used
 
@@ -54,5 +55,5 @@ Notably, several major Indian cities have already invested in CCTV infrastructur
  
 
 
-This innovative approach aims to improve response times and save lives by making the most of existing technology and resources.
+
 
