@@ -1,64 +1,44 @@
-# Vision-Based Accident Detection System for Smart City
+# Vision-Based Accident Detection System for Smart Cit
 
 ## Problem
 
-Every year in India, approximately 150,000 individuals lose their lives in road accidents. Shockingly, 30-40% of these accidents are ignored or dismissed by the public, mainly to evade unwanted investigations that could jeopardize even more lives.
-
-The delay in the response time to these accidents leads to delayed arrival of ambulance or fire brigade to the spot. In these critical situations every second counts for the life.
-
-Unfortunately, there are no effective measures in place to prevent the loss of lives resulting from such road accidents.
+Annually, about 150,000 lives are lost to road accidents in India, with a significant percentage going unreported. The delayed response exacerbates the situation, emphasizing the need for a proactive solution.
 
 ## Solution
 
-### Leveraging CCTV Cameras for Accident Detection
+### CCTV-Based Accident Detection
 
-To address the pressing issue of road accidents, we propose a solution that harnesses the power of existing CCTV cameras installed on roads. 
+Harnessing existing CCTV infrastructure, our solution detects accidents, triggering rapid responses by alerting emergency services.
 
 #### How it Works
 
-When these CCTV cameras detect an accident or the potential for one, they will activate and initiate a swift response by alerting nearby emergency services. This includes notifying ambulance services, the fire brigade, and the police.
+Upon accident detection, CCTV cameras activate, promptly notifying nearby services, including ambulance, fire brigade, and police.
 
-#### Utilizing Existing Resources
+#### Leveraging Existing Resources
 
-Notably, several major Indian cities have already invested in CCTV infrastructure:
-
-- Delhi, with 100 cameras primarily used for speed limit monitoring, which can be repurposed for accident detection.
-- Chennai's Third Eye campaign, boasting a network of 34,293 cameras originally deployed for speed monitoring, can also be effectively utilized for accident detection.
-- Bengaluru, which has proactively installed 5000 surveillance cameras along its roads, adding to the resources available for this initiative.
-  
-This innovative approach aims to improve response times and save lives by making the most of existing technology and resources.
-
-- ## Python Libraries Used
-
-### Computer Vision and Image Processing
-
-- **OpenCV (cv2)**
-    
-### Data Manipulation and Analysis
-
-- **NumPy (numpy)**
-    
-- **Pandas (pandas)**
-
-### Data Visualization
-
-- **Matplotlib (matplotlib.pyplot)**
-    
-### Machine Learning and Deep Learning
-
-- **TensorFlow (tensorflow)**
-   
-    - **Keras (tensorflow.keras)**
-        
-### Pre-trained Deep Learning Models
-
-- **MobileNetV2 (tf.keras.applications.MobileNetV2)**
+Major cities like Delhi, Chennai, and Bengaluru have invested in extensive CCTV networks, repurposing them for accident prevention.
 
 ## Image Dataset Used
 
 You can access the image dataset used in this project by clicking on the following link:
 
   -[Dataset_Accident Detection System](https://drive.google.com/file/d/1QywDGut6JjEZV8gVkqtgqtwzxt_ne3_D/view?usp=sharing)
+
+## Implementation
+
+- Successfully addressed a binary classification problem in computer vision, achieving 96% accuracy.
+- Implemented a robust CNN model using VGG19 with SpinalNet architecture.
+- Integrated MobileNetV2 and VGG19 with SpinalNet through Transfer Learning.
+- Employed data augmentation within the VGG19 architecture for enhanced accuracy.
+
+## Results
+
+- Achieved 96% accuracy in binary classification using a dataset of 791 images.
+- Enhanced model performance through Transfer Learning and data augmentation.
+- Successfully integrated multiple pre-trained models, including MobileNetV2 and VGG19 with SpinalNet.
+
+
+
 
 
 
