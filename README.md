@@ -33,8 +33,7 @@ You can access the image dataset used in this project by clicking on the followi
 
 ## Results
 
-  ![a1](https://github.com/blazeAssault26/Vision-Based-Accident-Detection-System-for-Smart-City/assets/129224378/432419c7-b7ac-483c-a4ee-444f2d949c3a)
-  
+ 
   ![Screenshot spinal](https://github.com/blazeAssault26/Vision-Based-Accident-Detection-System-for-Smart-City/assets/129224378/151d691b-f4dc-471e-9374-978d0377ef9d)
 
 - [**CNN:**](https://drive.google.com/file/d/166zEkT2Yv7eyJuNd0cRhPoKg2HqbwOTI/view?usp=drive_link)
