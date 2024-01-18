@@ -33,6 +33,8 @@ You can access the image dataset used in this project by clicking on the followi
 
 ## Results
 
+  ![Screenshot spinal](https://github.com/blazeAssault26/Vision-Based-Accident-Detection-System-for-Smart-City/assets/129224378/151d691b-f4dc-471e-9374-978d0377ef9d)
+
 - [**CNN:**](https://drive.google.com/file/d/166zEkT2Yv7eyJuNd0cRhPoKg2HqbwOTI/view?usp=drive_link)
 - [**MobileNetV2:**](https://drive.google.com/file/d/1EzIlYt2KMBNUXxQf1a0rX-jDzqjUZOSk/view?usp=drive_link)
 - [**VGG-19 with SpinalNet Architecture:**](https://drive.google.com/file/d/1JCRYEQ1IzFWgUNpnPG-nlbZlHIWSkRVj/view?usp=drive_link)
