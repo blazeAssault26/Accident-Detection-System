@@ -33,9 +33,13 @@ You can access the image dataset used in this project by clicking on the followi
 
 ## Results
 
-- Achieved 96% accuracy in binary classification using a dataset of 791 images.
-- Enhanced model performance through Transfer Learning and data augmentation.
-- Successfully integrated multiple pre-trained models, including MobileNetV2 and VGG19 with SpinalNet.
+- [**CNN:**] (https://drive.google.com/file/d/166zEkT2Yv7eyJuNd0cRhPoKg2HqbwOTI/view?usp=drive_link)
+- [**MobileNetV2:**] (https://drive.google.com/file/d/1EzIlYt2KMBNUXxQf1a0rX-jDzqjUZOSk/view?usp=drive_link)
+- [**VGG-19 with SpinalNet Architecture:**] (https://drive.google.com/file/d/1JCRYEQ1IzFWgUNpnPG-nlbZlHIWSkRVj/view?usp=drive_link)
+
+
+
+
 
 
 
