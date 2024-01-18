@@ -1,4 +1,4 @@
-# Vision-Based Accident Detection System for Smart Cit
+# Vision-Based Accident Detection System for Smart City
 
 ## Problem
 
