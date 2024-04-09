@@ -27,15 +27,12 @@ You can access the image dataset used in this project by clicking on the followi
 ## Implementation
 
 - Successfully addressed a binary classification problem in computer vision, achieving 96% accuracy.
-- Implemented a robust CNN model using VGG19 with SpinalNet architecture.
-- Integrated MobileNetV2 and VGG19 with SpinalNet through Transfer Learning.
-- Employed data augmentation within the VGG19 architecture for enhanced accuracy.
+- Implemented a robust CNN model using ResNet50 with SpinalNet architecture.
+- Integrated MobileNetV2 and ResNet50 with SpinalNet through Transfer Learning.
+- Employed data augmentation within the ResNet50 architecture for enhanced accuracy.
 
 ## Results
-
- ![Accuracy of spinal model when learning rate is 0 01](https://github.com/blazeAssault26/Vision-Based-Accident-Detection-System-for-Smart-City/assets/129224378/2fba3c08-19c1-43be-9b12-b21eb3348010)
- 
-  ![Screenshot spinal](https://github.com/blazeAssault26/Vision-Based-Accident-Detection-System-for-Smart-City/assets/129224378/271b1256-85cb-45e3-9baf-3b9b276f474b)
+ ![Screenshot spinal](https://github.com/blazeAssault26/Vision-Based-Accident-Detection-System-for-Smart-City/assets/129224378/271b1256-85cb-45e3-9baf-3b9b276f474b)
 
 
 
