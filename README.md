@@ -35,7 +35,8 @@ You can access the image dataset used in this project by clicking on the followi
 
  ![Accuracy of spinal model when learning rate is 0 01](https://github.com/blazeAssault26/Vision-Based-Accident-Detection-System-for-Smart-City/assets/129224378/2fba3c08-19c1-43be-9b12-b21eb3348010)
  
-  ![Screenshot spinal](<img width="856" alt="image" src="https://github.com/blazeAssault26/Vision-Based-Accident-Detection-System-for-Smart-City/assets/129224378/0edcc8a4-79b0-4767-999c-77e360523ba7">)
+  ![Screenshot spinal](<img width="856" alt="abd" src="https://github.com/blazeAssault26/Vision-Based-Accident-Detection-System-for-Smart-City/assets/129224378/271b1256-85cb-45e3-9baf-3b9b276f474b">
+)
 
 
 
